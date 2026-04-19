@@ -1,4 +1,6 @@
-![klökwork AI](https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/gg-logo_large.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/gg-logo_large.png" height="140"/>
+</p>
 
 # klökwork AI
 
@@ -6,21 +8,20 @@ AI-native tools for platform and infrastructure teams.
 
 We build products that think before they act — surfacing design as an explicit, inspectable artifact before any code or infrastructure is generated.
 
-
 ---
 
 ## Products
 
-![kre8](https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/kre8-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/kre8-logo.png" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/byoo-logo.png" height="160"/>
+</p>
 
 ### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE)
 Translates NLP intent into validated, policy-aware infrastructure design decisions and HCL.
 Currently prototyping in stealth mode.
 > Intent to Infrastructure.
-
----
-
-![byoo](https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/byoo-logo.png)
 
 ### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator
 AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code.
